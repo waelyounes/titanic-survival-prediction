@@ -21,7 +21,7 @@ As a PhD holder in **Mathematics and Logic**, I approached this challenge by foc
 4. **Validation:** Achieved an accuracy that earned me the **Python Coder Badge** on Kaggle.
 
 ### 📈 Results
-- **Kaggle Badge:** [Insert your Kaggle Profile Link here]
+- **Kaggle Badge:** [https://www.kaggle.com/code/waelalhajyounes/notebook99bd3971a5]
 - **Final Model:** Random Forest Classifier.
 
 ---
